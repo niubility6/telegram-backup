@@ -1,4 +1,4 @@
-# telegrambackup
+# telegram-backup
 基于[tg-archive](https://github.com/knadh/tg-archive)实现telegram数据备份展示的增强项目
 
 特性:
